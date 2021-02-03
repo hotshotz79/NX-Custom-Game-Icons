@@ -1,4 +1,4 @@
-# NX-Custom-Icons
+# NX-Custom-Game-Icons
 Custom Game Icons for Nintendo Switch :video_game:
 
 **NOTE:** Tested on Atmosphere 16.2 & Firmware 11.0.1 (Not sure if SX-OS supports Sys-tweak module)
@@ -7,7 +7,7 @@ Custom Game Icons for Nintendo Switch :video_game:
 1. Download .nxtheme(s) to your switch
 2. Use Switch Theme Injector.nro to install it
 3. Download sys-tweak.zip extract to \\Atmosphere\Contents\ folder
-4. Download icons from this repo or create your own and place them in the \\Atmosphere\Contents\<Title ID>\icon.jpg
+4. Download icons from this repo or create your own and place them in the \\Atmosphere\Contents\\<Title ID>\icon.jpg
 
 **:framed_picture: Vertical Icon Theme - HotzVert Screenshots:**
 
@@ -15,7 +15,7 @@ Custom Game Icons for Nintendo Switch :video_game:
 ![HotzVert-Lock](https://user-images.githubusercontent.com/7006684/106550694-a7c42180-64e1-11eb-9d9f-81cb0ca75d72.jpg)
 
 **:framed_picture: Horizontal Icon Theme - HotzHoriz Screenshot:** 
-**[COMING SOON]**
+> Work in Progress, Not Available for Download
 
 ![HotzHoriz-Home](https://user-images.githubusercontent.com/7006684/106550927-228d3c80-64e2-11eb-8576-46dfdb7b9c0d.jpg)
 
