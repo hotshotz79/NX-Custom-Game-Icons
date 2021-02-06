@@ -6,20 +6,23 @@ Custom Game Icons for Nintendo Switch :video_game:
 **Basic Instructions:**
 1. Download .nxtheme(s) to your switch
 2. Use Switch Theme Injector.nro to install it
-3. Download sys-tweak.zip extract to \\Atmosphere\Contents\ folder
+3. Download [sys-tweak.zip](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/sys-tweak.zip) extract to \\Atmosphere\Contents\ folder
 4. Download icons from this repo or create your own and place them in the \\Atmosphere\Contents\\<Title ID>\icon.jpg
 
 **:framed_picture: Vertical Icon Theme - HotzVert Screenshots:**
+
+Download Link: [All](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/Themes/HotzVert-All.nxtheme) | [Home](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/Themes/HotzVert-Home.nxtheme) | [Lock](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/Themes/HotzVert-Lock.nxtheme)
 
 ![HotzVert-Main](https://user-images.githubusercontent.com/7006684/106550700-aa267b80-64e1-11eb-9995-b5a4d5637928.jpg)
 ![HotzVert-Lock](https://user-images.githubusercontent.com/7006684/106550694-a7c42180-64e1-11eb-9d9f-81cb0ca75d72.jpg)
 
 **:framed_picture: Horizontal Icon Theme - HotzHoriz Screenshot:** 
-> Work in Progress, Not Available for Download
+
+Download Link: [All](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/Themes/HotzHoriz-All.nxtheme) | [Home](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/Themes/HotzHoriz-Home.nxtheme) | [Lock](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/Themes/HotzHoriz-Lock.nxtheme)
 
 ![HotzHoriz-Home](https://user-images.githubusercontent.com/7006684/106550927-228d3c80-64e2-11eb-8576-46dfdb7b9c0d.jpg)
 
-**Sources/References:**
+**Sources/References/Credit:**
 
 > Sys-Tweak https://github.com/p-sam/switch-sys-tweak
 >
