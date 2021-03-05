@@ -3,6 +3,10 @@ Custom Game Icons for Nintendo Switch :video_game:
 
 **NOTE:** Tested on Atmosphere 16.2 & Firmware 11.0.1 (Not sure if SX-OS supports Sys-tweak module)
 
+**TO BE USED WITH NX-GIX**
+An application is created to use this Icon Repository, follow this link for more details:
+https://github.com/hotshotz79/NX-Game-Icon-Customizer
+
 **Basic Instructions:**
 1. Download .nxtheme(s) to your switch
 2. Use Switch Theme Injector.nro to install it
@@ -29,10 +33,3 @@ Download Link: [All](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main
 > Switch Theme Injector https://github.com/exelix11/SwitchThemeInjector/releases
 >
 > GBATemp Guide https://gbatemp.net/threads/custom-game-icons-tutorial-and-sharing-hub-no-forwarders.574675/
-
-## Future Project:
-
-Currently working on an application that will use this Repo; see sceenshot below... details to follow when its ready;
-
-![nx-gic-wip](https://user-images.githubusercontent.com/7006684/106698106-21c1dc80-65ae-11eb-8134-697d0536f556.jpg)
-
