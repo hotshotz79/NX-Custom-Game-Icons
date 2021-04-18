@@ -10,7 +10,7 @@ https://github.com/hotshotz79/NX-Game-Icon-Customizer
 **Basic Instructions:**
 1. Download .nxtheme(s) to your switch
 2. Use Switch Theme Injector.nro to install it
-3. Download [sys-tweak.zip](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/sys-tweak.zip) extract to \\Atmosphere\Contents\ folder
+3. Download sys-tweak for [Atmosphere -18](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/sys-tweak.zip) or [Atmosphere 19](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/sys-tweak-Commit-b2014ac.zip) extract to \\Atmosphere\Contents\ folder
 4. Use NX-GIC to replace game icons
 
 **:framed_picture: Vertical Icon Theme - HotzVert Screenshots:**
