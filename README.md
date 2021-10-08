@@ -22,7 +22,7 @@ Download Link: [All](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main
 
 **:framed_picture: Vertical Icon Theme - HotzVert Defaultish Screenshots:**
 
-Download Link: [Home](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/Themes/HotzVertDefaultish-Home.nxtheme) | [Home - No Shop and Notification]()
+Download Link: [Home](https://github.com/hotshotz79/NX-Custom-Game-Icons/raw/main/Themes/HotzVertDefaultish-Home.nxtheme) | [Home - No Shop and Notification](https://github.com/hotshotz79/NX-Custom-Game-Icons/blob/main/Themes/HotzVertDefaultish-Home-NoShopNotif.nxtheme)
 
 ![HotzVert-Defaultish](https://user-images.githubusercontent.com/7006684/113594792-2a627d80-9606-11eb-9595-dac2fcfe0950.jpg)
 
